@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jakuubkoo
-- 👀 I’m interested in Java, PHP, Go
-- 🌱 I’m currently learning PHP Frameworks
+- 👀 I’m interested in Java, PHP, Python, sometimes maybe also Javascript (React)
+- 🌱 I’m currently learning Python/AI/ML
 - 📫 How to reach me: jakubkoholas@gmail.com
 
 <!---
